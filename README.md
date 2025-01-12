@@ -1,14 +1,6 @@
 # 💫 About Me:
 Hello! 👋 I'm a Data Engineer/Analyst with over 10 years of experience building data pipelines, performing advanced analytics, and crafting interactive dashboards. I specialize in turning complex data into actionable insights to support data-driven decision-making.
 
-**Tech Stack:** Python, SQL, R, SSIS, Tableau, MongoDB, and more.
-
-**What I Do**: I design ETL pipelines, analyze datasets, and create data visualization tools to empower businesses and teams.
-
-**Interests:** Passionate about leveraging data to solve real-world problems, automating workflows, and optimizing processes for efficiency.
-
-**Current Focus:** Exploring cloud platforms (AWS).
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/veenap47/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@veenaprabhakaran) 
 
